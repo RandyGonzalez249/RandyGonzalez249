@@ -22,7 +22,7 @@ Actively seeking entry-level data analyst roles in the Greater Los Angeles area 
 `Excel` • `SQL` • `Power BI` • `Tableau` • `PostgreSQL`
 
 **Methods:**  
-Data Cleaning • Data Transformation • Data Aggregation • Exploratory Analysis • Dashboard Design • Reporting • KPI Tracking
+`Data Cleaning` • `Data Transformation` • `Data Aggregation` • `Exploratory Analysis` • `Dashboard Design` • `Reporting` • `KPI Tracking`
 
 ---
 
