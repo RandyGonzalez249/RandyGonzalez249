@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Randy Gonzalez
 
 🎓 UCLA graduate (B.S. in Applied Mathematics, Minor in Statistics)  
-📊 Aspiring Data Analyst | Excel • SQL • Power BI • Tableau  
+📊 Aspiring Data Analyst | Excel • SQL • Power BI • Tableau • Python
 📍 Based in Greater Los Angeles Area  
 💼 Currently working at Strong Ties Construction, Inc.
 
@@ -19,7 +19,7 @@ Actively seeking entry-level data analyst roles in the Greater Los Angeles area 
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**  
-`Excel` • `SQL` • `Power BI` • `Tableau` • `PostgreSQL`
+`Excel` • `SQL` • `Power BI` • `Tableau` • `PostgreSQL` • `Python`
 
 **Methods:**  
 `Data Cleaning` • `Data Transformation` • `Data Aggregation` • `Exploratory Analysis` • `Dashboard Design` • `Reporting` • `KPI Tracking`
