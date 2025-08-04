@@ -52,6 +52,7 @@ Here are a few highlights from my recent work:
 - Fundamentals of Visualization with Tableau – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/X60TCCPMA4XS)
 - Harnessing the Power of Data with Power BI – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/YUSBJFNK62XR)
 - Preparing Data for Analysis with Microsoft Excel – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/7JK6828D0MKI)
+- Getting Started with Python – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/P5B3UQ9DA8HQ)
 
 ---
 
