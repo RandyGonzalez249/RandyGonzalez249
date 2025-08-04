@@ -9,7 +9,7 @@
 
 ## 🔍 About Me
 
-Data Analyst with a B.S. in Applied Mathematics from UCLA and hands-on experience in Excel, SQL, Tableau, and Power BI.
+Data Analyst with a B.S. in Applied Mathematics from UCLA and hands-on experience in Excel, SQL, Tableau, Power BI, and Python.
 Skilled in data cleaning, dashboard design, and exploratory analysis through applied projects in sales, customer behavior, and marketing.
 Strong background in business operations and stakeholder communication from 6+ years of experience in a construction setting.
 Actively seeking entry-level data analyst roles in the Greater Los Angeles area to leverage technical and analytical expertise in a collaborative, data-driven environment to drive process improvement and strategic decisions.
