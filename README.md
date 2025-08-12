@@ -40,7 +40,7 @@ Here are a few highlights from my recent work:
 - Includes insights for targeted marketing based on regional preferences
 - 🔍 Tools: Excel, Pivot Tables, Charts | 📸 Includes visualization snapshots
 
-### 🦠 [Influenza Analysis (Tableau)](https://public.tableau.com/app/profile/randy.gonzalez249/viz/Influenza_17111589412660/Storyboard)
+### 🦠 [Influenza Analysis (Tableau)](https://public.tableau.com/app/profile/randy.gonzalez6880/viz/InfluenzaDeathsAcrossTheUSA/Story1)
 - Time-series and geographic analysis of U.S. influenza trends
 - Interactive Tableau story with seasonal patterns and insights
 
