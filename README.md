@@ -19,7 +19,7 @@ Actively seeking entry-level data analyst roles in the Greater Los Angeles area 
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**  
-`Excel` • `SQL` • `Power BI` • `Tableau` • `PostgreSQL` • `Python`
+`Excel` • `SQL` • `Power BI` • `Tableau` • `PostgreSQL` • `Python` • `Pandas`
 
 **Methods:**  
 `Data Cleaning` • `Data Transformation` • `Data Aggregation` • `Exploratory Analysis` • `Dashboard Design` • `Reporting` • `KPI Tracking`
@@ -53,6 +53,8 @@ Here are a few highlights from my recent work:
 - Harnessing the Power of Data with Power BI – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/YUSBJFNK62XR)
 - Preparing Data for Analysis with Microsoft Excel – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/7JK6828D0MKI)
 - Getting Started with Python – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/P5B3UQ9DA8HQ)
+- Introduction to Finance: The Basics – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/FSNPXJNGFDPO)
+- Mastering Data Analysis with Pandas – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/X51YZARN01PQ) 
 
 ---
 
