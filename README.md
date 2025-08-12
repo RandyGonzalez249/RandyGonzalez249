@@ -43,7 +43,6 @@ Here are a few highlights from my recent work:
 ### 🦠 [Influenza Analysis (Tableau)](https://public.tableau.com/app/profile/randy.gonzalez249/viz/Influenza_17111589412660/Storyboard)
 - Time-series and geographic analysis of U.S. influenza trends
 - Interactive Tableau story with seasonal patterns and insights
-- Tableau Link: https://public.tableau.com/app/profile/randy.gonzalez6880/viz/InfluenzaDeathsAcrossTheUSA/Story1
 
 ---
 
