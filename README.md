@@ -54,7 +54,7 @@ Here are a few highlights from my recent work:
 - Preparing Data for Analysis with Microsoft Excel – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/7JK6828D0MKI)
 - Getting Started with Python – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/P5B3UQ9DA8HQ)
 - Introduction to Finance: The Basics – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/FSNPXJNGFDPO)
-- Mastering Data Analysis with Pandas – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/X51YZARN01PQ) 
+- Mastering Data Analysis with Pandas (Parts 1-3 of 5) – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/NBA9JL1XRB5O) 
 
 ---
 
