@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Randy Gonzalez
 
 🎓 UCLA graduate (B.S. in Applied Mathematics, Minor in Statistics)  
-📊 Aspiring Data Analyst | Excel • SQL • Power BI • Tableau • Python
+📊 Operations Analyst | Excel • SQL • Power BI • Tableau • Python
 📍 Based in Greater Los Angeles Area  
 💼 Currently working at Strong Ties Construction, Inc.
 
@@ -9,17 +9,14 @@
 
 ## 🔍 About Me
 
-Data Analyst with a B.S. in Applied Mathematics from UCLA and hands-on experience in Excel, SQL, Tableau, Power BI, and Python.
-Skilled in data cleaning, dashboard design, and exploratory analysis through applied projects in sales, customer behavior, and marketing.
-Strong background in business operations and stakeholder communication from 6+ years of experience in a construction setting.
-Actively seeking entry-level data analyst roles in the Greater Los Angeles area to leverage technical and analytical expertise in a collaborative, data-driven environment to drive process improvement and strategic decisions.
+Data Analyst with B.S. in Applied Mathematics from UCLA and seven years of operations experience managing procurement, payroll systems, and process improvements in construction. Post-graduation, I applied quantitative skills in an operational setting - building data systems that turned project metrics into cost savings and efficiency gains. Now seeking to transition into a more dedicated data analyst role where I can focus entirely on analysis and leverage technical skills in SQL, Python, Excel, Power BI, and Tableau alongside practical business experience. Experienced in cleaning complex datasets, building dashboards, and communicating insights to non-technical stakeholders. Aiming for a position where both analytical rigor and operational understanding create value.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**  
-`Excel` • `SQL` • `Power BI` • `Tableau` • `PostgreSQL` • `Python` • `Pandas`
+`Excel` • `SQL` (`PostgreSQL`, `SQLite`) • `Power BI` • `Tableau` • `Python` (`Pandas`, `Jupyter`) • `R`
 
 **Methods:**  
 `Data Cleaning` • `Data Transformation` • `Data Aggregation` • `Exploratory Analysis` • `Dashboard Design` • `Reporting` • `KPI Tracking`
@@ -30,10 +27,15 @@ Actively seeking entry-level data analyst roles in the Greater Los Angeles area 
 
 Here are a few highlights from my recent work:
 
+### 🏅 [SportsStats Olympic Data Preparation](https://github.com/RandyGonzalez249/SportsStats-Analysis)
+- Comprehensive SQL-Based Data Preparation Project Using 120 Years of Olympic History
+- Result: A production-ready dataset enabling analysis of 269K+ records of Olympic history with transparent documentation of all cleaning decisions and known limitations.
+- 🔍 Tools: SQLite, Python, Pandas, Jupyter, Regex | 📸 Snapshots of queries performed included
+
 ### ☕ [Brew Heaven Dashboard](https://github.com/RandyGonzalez249/Brew-Heaven-Analysis)
 - Power BI dashboard analyzing café sales, inventory, and customer behavior
 - Recommendations provided to improve profitability and product strategy
-- 🔍 Tools: Power BI, Power Query, SQL | 📸 Dashboard visuals included
+- 🔍 Tools: Power BI, Power Query | 📸 Dashboard visuals included
 
 ### 🎮 [Video Game Sales Analysis](https://github.com/RandyGonzalez249/Video-Game-Sales-Analysis)
 - Excel project analyzing video game trends by genre and region (1980–2016)
@@ -48,13 +50,11 @@ Here are a few highlights from my recent work:
 
 ## 📜 Certifications
 
-- SQL for Data Analysts – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/091ZD8GBC52G)
-- Fundamentals of Visualization with Tableau – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/X60TCCPMA4XS)
-- Harnessing the Power of Data with Power BI – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/YUSBJFNK62XR)
-- Preparing Data for Analysis with Microsoft Excel – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/7JK6828D0MKI)
-- Getting Started with Python – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/P5B3UQ9DA8HQ)
-- Introduction to Finance: The Basics – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/FSNPXJNGFDPO)
-- Mastering Data Analysis with Pandas (Parts 1-3 of 5) – Coursera (Link: https://www.coursera.org/account/accomplishments/verify/NBA9JL1XRB5O) 
+- [Google Data Analytics Professional Certificate – In Progress (7/8 courses completed)](https://www.coursera.org/account/accomplishments/verify/NW2J0JQ56UK1)
+- [SQL for Data Science Specialization – UC Davis via Coursera – In Progress (2/3 courses completed)](https://www.coursera.org/account/accomplishments/records/091ZD8GBC52G)
+- [Data Visualization with Tableau Fundamentals – UC Davis via Coursera](https://www.coursera.org/account/accomplishments/verify/X60TCCPMA4XS)
+- [Microsoft Power BI Data Analyst Specialization – In Progress (3/8 courses completed)](https://www.coursera.org/account/accomplishments/verify/YUSBJFNK62XR)
+- [Mastering Data Analysis with Pandas – Coursera Guided Projects (5/5 courses completed)](https://www.coursera.org/account/accomplishments/verify/185JJ3KI0KQ8)
 
 ---
 
