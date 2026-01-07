@@ -9,17 +9,26 @@
 
 ## 🔍 About Me
 
-Data Analyst with B.S. in Applied Mathematics from UCLA and seven years of operations experience managing procurement, payroll systems, and process improvements in construction. Post-graduation, I applied quantitative skills in an operational setting - building data systems that turned project metrics into cost savings and efficiency gains. Now seeking to transition into a more dedicated data analyst role where I can focus entirely on analysis and leverage technical skills in SQL, Python, Excel, Power BI, and Tableau alongside practical business experience. Experienced in cleaning complex datasets, building dashboards, and communicating insights to non-technical stakeholders. Aiming for a position where both analytical rigor and operational understanding create value.
+Operations Analyst with **7+ years** of construction experience optimizing project performance through data-driven cost analysis, resource planning, and process improvement. Proficient in Excel, SQL, and Power BI for operational reporting and decision support. UCLA B.S. in Applied Mathematics. Proven ability to translate complex operational data into actionable business insights.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
+
+### 💼 Operational & Business Skills:
+-	Cost and margin analysis
+-	Labor and resource utilization analysis
+-	Process documentation and workflow analysis
+-	Requirements gathering and stakeholder communication
+-	Research, reporting, and decision support
+
+### 🧑‍💻 Technical Skills
 
 **Languages & Tools:**  
 `Excel` • `SQL` (`PostgreSQL`, `SQLite`) • `Power BI` • `Tableau` • `Python` (`Pandas`, `Jupyter`) • `R`
 
 **Methods:**  
-`Data Cleaning` • `Data Transformation` • `Data Aggregation` • `Exploratory Analysis` • `Dashboard Design` • `Reporting` • `KPI Tracking`
+`Data Cleaning` • `Data Transformation` • `ETL Fundamentals` • `Data Aggregation` • `Exploratory Analysis` • `Dashboard Design` • `Reporting` • `KPI Tracking`
 
 ---
 
@@ -50,11 +59,12 @@ Here are a few highlights from my recent work:
 
 ## 📜 Certifications
 
-- [Google Data Analytics Professional Certificate – In Progress (7/8 courses completed)](https://www.coursera.org/account/accomplishments/verify/NW2J0JQ56UK1)
-- [SQL for Data Science Specialization – UC Davis via Coursera – In Progress (2/3 courses completed)](https://www.coursera.org/account/accomplishments/records/091ZD8GBC52G)
-- [Data Visualization with Tableau Fundamentals – UC Davis via Coursera](https://www.coursera.org/account/accomplishments/verify/X60TCCPMA4XS)
-- [Microsoft Power BI Data Analyst Specialization – In Progress (3/8 courses completed)](https://www.coursera.org/account/accomplishments/verify/YUSBJFNK62XR)
-- [Mastering Data Analysis with Pandas – Coursera Guided Projects (5/5 courses completed)](https://www.coursera.org/account/accomplishments/verify/185JJ3KI0KQ8)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/verify/NW2J0JQ56UK1)
+- [SQL for Data Science – UC Davis](https://www.coursera.org/account/accomplishments/records/091ZD8GBC52G)
+- [Data Visualization with Tableau Fundamentals – UC Davis](https://www.coursera.org/account/accomplishments/verify/X60TCCPMA4XS)
+- [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/verify/YUSBJFNK62XR)
+- [Mastering Data Analysis with Pandas – Coursera Guided Projects](https://www.coursera.org/account/accomplishments/verify/185JJ3KI0KQ8)
+- [Generative AI for Data Analytics - IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/JHVXT0BTN0V8)
 
 ---
 
